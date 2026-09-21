@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6a7b6b7e033c2ec8bfe5d3b6",
+  "owner": "pdwnavmh",
+  "repo": "page-a9c2e3cc08a1e151575d197c",
+  "title": "小猴子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9c2e3cc08a1e151575d197c",
+      "a": "小猴子",
+      "b": "2027最新官网",
+      "entity": "小猴子",
+      "brand": "小猴子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d3c88e3e33bf9d8d1842131bd6f60f4e8ab80d75d113c22c61b73f2f83a20c4a",
+      "content": {
+        "primary_entity": "小猴子",
+        "keyword1": "小猴子",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按手机、电脑或路由器选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "下载对应客户端，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用小猴子",
+          "AI_DESCRIPTION": "，小猴子提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备，适合多人协作场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、同时在线设备数与订阅周期三个角度了解小猴子。",
+          "AI_FEATURES_TITLE": "套餐与选择",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15、年付 ¥150，适合单人或双人日常使用，含每月 100GB 流量与 3 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35、年付 ¥350，每月 300GB 流量与 5 台设备，包含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85、年付 ¥850，每月 1000GB 流量与 20 台设备，支持企业定制路由与专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "按用量选档",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "挑选套餐、确认设备适配、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "小猴子提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线。按设备数量与用量选择档位，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合少量设备轻量使用，旗舰版覆盖主流流媒体与游戏加速，团队版面向多人共享高带宽。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与版本符合客户端文档中的适配要求。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按文档导入订阅并完成基础配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小猴子加速订阅",
+          "AI_FAQ_TITLE": "小猴子常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小猴子套餐按什么区分？",
+          "AI_FAQ_ANSWER_1": "主要按每月流量、可同时在线设备数和线路类型区分。基础版 100GB、旗舰版 300GB、团队版 1000GB，设备数分别为 3 台、5 台、20 台。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版按月 ¥15，按年 ¥150；旗舰版按月 ¥35，按年 ¥350；团队版按月 ¥85，按年 ¥850。年付相当于按月付十个月左右的费用。",
+          "AI_FAQ_QUESTION_3": "一个订阅能在几台设备上用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出同时在线数可能导致新设备无法连接，可先统计常用设备再选套餐。",
+          "AI_FAQ_QUESTION_4": "小猴子订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在订阅页面获取订阅链接，打开设备上对应的代理客户端，找到订阅或配置导入入口，粘贴链接后更新节点即可使用。具体步骤以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么情况？",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线和全节点流媒体解锁，适合游戏与高清视频；团队版流量和设备数更多，并提供高带宽节点，适合多人或小型团队共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lcjhd.cn",
+    "host": "lcjhd.cn"
+  },
+  "file_hashes": {
+    "index.html": "605098b2a5b24fc6267cd9398571484581bff44db0ac949c43b8f10cd5a1568a",
+    "sitemap.xml": "1eb979b35ee8b8a1de7674cedb969435a0bfe9c40ba2f699095557fd64c3c01c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a04a5bd52229f35e7bf5edb7fa70322c38589f54b41ab7f34dd817d5ebe5db7c",
+    "robots.txt": "c6a6634009e4705e0134bc53122487955b94b723df79533cb193883d23984ee3",
+    "dadddba6d166188e577fdc9bc78fb9af.txt": "a03b0992082c1e0deae79a0e1b35c0db5d777237b30b5363392cbc5ca9a00aff"
+  },
+  "revision": "f02bb9e0c21c3fbdbada2be976c8c586a25a2dd0443847a6f8570e4015add252"
+}
